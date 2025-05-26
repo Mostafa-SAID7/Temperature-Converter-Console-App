@@ -80,15 +80,15 @@ This project may include third-party libraries and dependencies that are subject
 
 ### Contributing
 
-By contributing to this project, you agree that your contributions will be licensed under the same MIT License that covers the project. For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
+By contributing to this project, you agree that your contributions will be licensed under the same MIT License that covers the project. For more details, see [![Contributing](https://img.shields.io/badge/Contributing-CONTRIBUTING.md-blue?style=for-the-badge)](CONTRIBUTING.md).
 
 ### Contact
 
 For questions about licensing or to request permission for uses not covered by this license, please contact:
 
 **Mostafa SAID**  
-GitHub: [@Mostafa-SAID7](https://github.com/Mostafa-SAID7)  
-Project Repository: [Temperature-Converter-Console-App](https://github.com/Mostafa-SAID7/Temperature-Converter-Console-App)
+GitHub: [![GitHub Badge](https://img.shields.io/badge/GitHub-@Mostafa--SAID7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostafa-SAID7)  
+Project Repository: [![Repo Badge](https://img.shields.io/badge/Repo-Temperature--Converter--Console--App-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostafa-SAID7/Temperature-Converter-Console-App)
 
 ---
 
