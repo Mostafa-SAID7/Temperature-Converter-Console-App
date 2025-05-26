@@ -37,10 +37,12 @@ If you discover a vulnerability, please report it responsibly.
 
 **DO NOT use GitHub issues for reporting security vulnerabilities.**
 
-Instead, please contact:
+### 📞 Contact Information
 
-- **Email**: [m.ssaid356@gmail.com](mailto:m.ssaid356@gmail.com)
-- **GitHub Security Advisory**: Use the private reporting option on GitHub
+- **Maintainer**: Mostafa Said  
+- [![Email](https://img.shields.io/badge/Email-m.ssaid356%40gmial.com-blue?style=for-the-badge&logo=gmail)](mailto:m.ssaid356@gmial.com)  
+- **GitHub**: [@Mostafa-SAID7](https://github.com/Mostafa-SAID7)
+
 
 ### 📝 What to Include
 
