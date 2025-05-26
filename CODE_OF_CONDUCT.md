@@ -51,7 +51,8 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
-**Primary Contact**: [mostafa.said7@example.com](mailto:mostafa.said7@example.com)
+**Primary Contact**:  
+[![Email](https://img.shields.io/badge/Email-mostafa.said7%40example.com-blue?style=for-the-badge&logo=gmail)](mailto:mostafa.said7@example.com)
 
 ### How to Report
 When reporting an issue, please include:
@@ -98,23 +99,28 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 If you believe you have been unfairly sanctioned under this Code of Conduct, you may appeal by:
 
-1. **Contacting the project maintainer** within 30 days of the decision
-2. **Providing additional context** or information not previously considered
+1. **Contacting the project maintainer** within 30 days of the decision  
+2. **Providing additional context** or information not previously considered  
 3. **Requesting a review** by an independent party if needed
 
 ## Acknowledgment
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
+This Code of Conduct is adapted from the  
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-blue?style=for-the-badge&logo=github)](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)  
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+Community Impact Guidelines were inspired by  
+[![Mozilla's Code of Conduct Enforcement Ladder](https://img.shields.io/badge/Mozilla-Code%20of%20Conduct%20Enforcement%20Ladder-ff7139?style=for-the-badge&logo=mozilla)](https://github.com/mozilla/diversity)
 
-For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
+For answers to common questions about this code of conduct, see the FAQ at  
+[![FAQ](https://img.shields.io/badge/FAQ-Contributor%20Covenant-6cc24a?style=for-the-badge&logo=github)](https://www.contributor-covenant.org/faq)  
+Translations are available at  
+[![Translations](https://img.shields.io/badge/Translations-Contributor%20Covenant-008080?style=for-the-badge&logo=github)](https://www.contributor-covenant.org/translations)
 
 ## Contact Information
 
 **Project Maintainer**: Mostafa SAID  
-**GitHub**: [@Mostafa-SAID7](https://github.com/Mostafa-SAID7)  
-**Email**: [Contact via GitHub Issues](https://github.com/Mostafa-SAID7/Temperature-Converter-Console-App/issues)
+[![GitHub](https://img.shields.io/badge/GitHub-Mostafa--SAID7-black?style=for-the-badge&logo=github)](https://github.com/Mostafa-SAID7)  
+[![Issues](https://img.shields.io/badge/Issues-Contact%20via%20GitHub%20Issues-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mostafa-SAID7/Temperature-Converter-Console-App/issues)
 
 ---
 
