@@ -110,13 +110,6 @@ If you discover a vulnerability, please report it responsibly.
 - [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/)  
 - [CVE Database](https://cve.mitre.org/)
 
-## 📞 Contact Information
-
-- **Maintainer**: Mostafa Said  
-- [![Email](https://img.shields.io/badge/Email-m.ssaid356%40gmial.com-blue?style=for-the-badge&logo=gmail)](mailto:m.ssaid356@gmial.com)  
-- [![GitHub](https://img.shields.io/badge/GitHub-Mostafa--SAID7-black?style=for-the-badge&logo=github)](https://github.com/Mostafa-SAID7)  
-- [![Repo](https://img.shields.io/badge/Repo-Temperature--Converter--Console--App-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mostafa-SAID7/Temperature-Converter-Console-App)
-
 ## 🙏 Acknowledgments
 
 Thank you to all security researchers who contribute to a safer open source ecosystem.
