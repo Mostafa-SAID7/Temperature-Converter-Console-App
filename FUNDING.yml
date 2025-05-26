@@ -1,2 +1,34 @@
+# These are supported funding model platforms
+
+# GitHub Sponsors
 github: [Mostafa-SAID7]
-custom: ['https://buymeacoffee.com/mostafasaid']
+
+# Patreon
+# patreon: username
+
+# Open Collective
+# open_collective: projectname
+
+# Ko-fi
+# ko_fi: username
+
+# Tidelift
+# tidelift: npm/packagename
+
+# Community Bridge
+# community_bridge: projectname
+
+# Liberapay
+# liberapay: username
+
+# IssueHunt
+# issuehunt: username
+
+# Other funding platforms
+# custom: ['https://www.paypal.me/username', 'https://buy-me-a-coffee.com/username']
+
+# Example of multiple funding options (uncomment and customize as needed):
+# github: [Mostafa-SAID7]
+# patreon: your-patreon-username
+# ko_fi: your-kofi-username
+# custom: ['https://www.paypal.me/your-paypal', 'https://www.buymeacoffee.com/your-username']
