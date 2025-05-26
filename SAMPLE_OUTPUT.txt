@@ -1,21 +1,64 @@
-🍔 Welcome to C# Burger Spot!
-Please choose your burger:
-1. Classic Burger - $5.99
-2. Cheese Burger - $6.99
-3. Chicken Burger - $6.49
-Enter your choice (1-3): 2
 
-Would you like to add any of the following?
-A. Fries - $2.49
-B. Soft Drink - $1.99
-C. Extra Cheese - $0.99
-Select add-ons (A/B/C) separated by comma, or press Enter to skip: A,C
+## Usage
 
-🧾 Order Summary:
-- Cheese Burger
-- Fries
-- Extra Cheese
-Total: $10.47
+1. Launch the application
+2. Follow the on-screen prompts to:
+   - Enter the temperature value
+   - Select the source temperature scale
+   - Select the target temperature scale
+3. View the converted result
+4. Choose to perform another conversion or exit
 
-Confirm your order? (Y/N): Y
-✅ Order confirmed! Thank you for ordering 🍔
+### Example Usage
+```
+Welcome to Temperature Converter!
+
+Enter temperature value: 100
+Select source scale:
+1. Celsius
+2. Fahrenheit
+3. Kelvin
+Choice: 1
+
+Select target scale:
+1. Celsius
+2. Fahrenheit
+3. Kelvin
+Choice: 2
+
+Result: 100°C = 212°F
+```
+
+## Temperature Conversion Formulas
+
+The application uses the following standard conversion formulas:
+
+**Celsius to Fahrenheit:**
+```
+°F = (°C × 9/5) + 32
+```
+
+**Celsius to Kelvin:**
+```
+K = °C + 273.15
+```
+
+**Fahrenheit to Celsius:**
+```
+°C = (°F - 32) × 5/9
+```
+
+**Fahrenheit to Kelvin:**
+```
+K = (°F - 32) × 5/9 + 273.15
+```
+
+**Kelvin to Celsius:**
+```
+°C = K - 273.15
+```
+
+**Kelvin to Fahrenheit:**
+```
+°F = (K - 273.15) × 9/5 + 32
+```
