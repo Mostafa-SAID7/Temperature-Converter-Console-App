@@ -39,7 +39,7 @@ If you discover a vulnerability, please report it responsibly.
 
 Instead, please contact:
 
-- **Email**: [m.ssaid356@gmial.com](mailto:m.ssaid356@gmial.com)
+- **Email**: [m.ssaid356@gmail.com](mailto:m.ssaid356@gmail.com)
 - **GitHub Security Advisory**: Use the private reporting option on GitHub
 
 ### 📝 What to Include
@@ -111,7 +111,7 @@ Instead, please contact:
 ## 📞 Contact Information
 
 - **Maintainer**: Mostafa Said  
-- **Email**: [m.ssaid356@gmial.com](mailto:m.ssaid356@gmial.com)  
+- **Email**: [m.ssaid356@gmial.com](mailto:m.ssaid356@gmail.com)  
 - **GitHub**: [@Mostafa-SAID7](https://github.com/Mostafa-SAID7)
 
 ## 🙏 Acknowledgments
